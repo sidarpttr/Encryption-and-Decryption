@@ -35,4 +35,24 @@ what do you want to do?
 enter a text to encrypt: Hello
 enter a key: ABC
 -----------------------------
-encrypted text: HFNOS
+encrypted text: what do you want to do?
+1. encryption
+2. decryption
+3. decryption without key (length of key must be 3)
+0. quit
+>> 1
+
+enter a text to encrypt: Hello
+enter a key: ABC
+-----------------------------
+encrypted text: what do you want to do?
+1. encryption
+2. decryption
+3. decryption without key (length of key must be 3)
+0. quit
+>> 1
+
+enter a text to encrypt: Hello
+enter a key: ABC
+-----------------------------
+encrypted text: HFNLP
