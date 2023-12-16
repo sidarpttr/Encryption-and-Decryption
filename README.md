@@ -26,33 +26,12 @@ This C++ program implements a basic substitution cipher for encrypting and decry
 ## Example:
 ```plaintext
 what do you want to do?
-1. encryption
-2. decryption
-3. decryption without key (length of key must be 3)
-0. quit
+1.      encryption
+2.      decryption
+3.      decryption without key (length of key must 3)
+0.      quit
 >> 1
-
-enter a text to encrypt: Hello
-enter a key: ABC
------------------------------
-encrypted text: what do you want to do?
-1. encryption
-2. decryption
-3. decryption without key (length of key must be 3)
-0. quit
->> 1
-
-enter a text to encrypt: Hello
-enter a key: ABC
------------------------------
-encrypted text: what do you want to do?
-1. encryption
-2. decryption
-3. decryption without key (length of key must be 3)
-0. quit
->> 1
-
-enter a text to encrypt: Hello
-enter a key: ABC
+enter a text to encrypt:        Hello
+enter a key:    ABC
 -----------------------------
 encrypted text: HFNLP
