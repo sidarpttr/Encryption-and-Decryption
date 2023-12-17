@@ -118,7 +118,7 @@ public:
                 }
             }
         }
-        if (counter >= size - 1)
+        if (counter == size)
             return 0;
         return 1;
     }
